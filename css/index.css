@@ -398,6 +398,7 @@ section{
   .content .sub{margin: 20px 0px;}
 
  /* -------------------------- */
+  .contents1{height: 700px;}
   .contents1 h1{
     font-size: 80px;
     letter-spacing: 2px;
@@ -405,6 +406,9 @@ section{
   .contents1 h1:hover{color: lightsalmon}
   .clayimage .image:nth-of-type(2){
     display: none;
+  }
+  .clayimage .image img{
+    width: 300px;
   }
   .clayimage .image:hover{
     transform: rotateX(360deg);
@@ -417,7 +421,7 @@ section{
   }
 
  /* -------------------------- */
-
+.contents2{height: 700px;}
 .contents2 h1{
   font-size: 80px;
   letter-spacing: 2px;
@@ -433,6 +437,7 @@ section{
 }
 
  /* -------------------------- */
+.contents3{height: 800px;}
 .contents3 h1{
   font-size: 80px;
   letter-spacing: 1px;
@@ -449,6 +454,7 @@ section{
 }
 
 /* -------------------------- */
+.contents4{height: 800px;}
 .contents4 h1{
   font-size: 70px;
   letter-spacing: 1px;
